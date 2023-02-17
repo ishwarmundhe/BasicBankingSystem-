@@ -8,4 +8,4 @@ Home Page > View all customers > Select and View one customer > Transfer Money >
 
 # website link  -
 
-///Users/ishwarmundhe/Desktop/Banking-system-main/index.html
+file:///Users/ishwarmundhe/Desktop/Banking-system-main/index.html 
